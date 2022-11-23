@@ -1,11 +1,11 @@
 {
-    "firstname" : "chandra11",
-    "lastname" : "shekhar11",
-    "totalprice" : 11111,
-    "depositpaid" : true,
-    "bookingdates" : {
-        "checkin" : "2018-01-01",
-        "checkout" : "2019-01-01"
-    },
-    "additionalneeds" : "Breakfast"
+	"firstname": "Nicky",
+	"additionalneeds": "breakfast",
+	"bookingdates": {
+		"checkin": "2018-01-01",
+		"checkout": "2019-01-01"
+	},
+	"totalprice": "12",
+	"depositpaid": "true",
+	"lastname": "tet"
 }

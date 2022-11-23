@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+<testng-results ignored="3" total="4" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-11-23T13:14:11 IST" name="Default suite" finished-at="2022-11-23T13:14:16 IST" duration-ms="4980">
+  <suite started-at="2022-11-23T15:04:02 IST" name="Default suite" finished-at="2022-11-23T15:04:07 IST" duration-ms="4829">
     <groups>
     </groups>
-    <test started-at="2022-11-23T13:14:11 IST" name="Default test" finished-at="2022-11-23T13:14:16 IST" duration-ms="4980">
+    <test started-at="2022-11-23T15:04:02 IST" name="Default test" finished-at="2022-11-23T15:04:07 IST" duration-ms="4829">
       <class name="com.tests.restAssured.PostRequest">
-        <test-method signature="postRequestByCreatingBodyUsingHasmap()[pri:0, instance:com.tests.restAssured.PostRequest@fa49800]" started-at="2022-11-23T13:14:11 IST" name="postRequestByCreatingBodyUsingHasmap" finished-at="2022-11-23T13:14:16 IST" duration-ms="4910" status="PASS">
+        <test-method signature="postRequestByCreatingBodyUsingJsonObject()[pri:0, instance:com.tests.restAssured.PostRequest@16a0ee18]" started-at="2022-11-23T15:04:03 IST" name="postRequestByCreatingBodyUsingJsonObject" finished-at="2022-11-23T15:04:07 IST" duration-ms="4746" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- postRequestByCreatingBodyUsingHasmap -->
+        </test-method> <!-- postRequestByCreatingBodyUsingJsonObject -->
       </class> <!-- com.tests.restAssured.PostRequest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
