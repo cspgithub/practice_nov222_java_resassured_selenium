@@ -1,6 +1,6 @@
 package com.tests.restAssured;
 
-import static io.restassured.RestAssured.given;
+import static io.restassured.RestAssured.*;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
