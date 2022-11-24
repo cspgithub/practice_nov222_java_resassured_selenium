@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="3" total="4" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-11-23T15:04:02 IST" name="Default suite" finished-at="2022-11-23T15:04:07 IST" duration-ms="4829">
+  <suite started-at="2022-11-24T12:42:24 IST" name="Default suite" finished-at="2022-11-24T12:43:21 IST" duration-ms="56546">
     <groups>
     </groups>
-    <test started-at="2022-11-23T15:04:02 IST" name="Default test" finished-at="2022-11-23T15:04:07 IST" duration-ms="4829">
-      <class name="com.tests.restAssured.PostRequest">
-        <test-method signature="postRequestByCreatingBodyUsingJsonObject()[pri:0, instance:com.tests.restAssured.PostRequest@16a0ee18]" started-at="2022-11-23T15:04:03 IST" name="postRequestByCreatingBodyUsingJsonObject" finished-at="2022-11-23T15:04:07 IST" duration-ms="4746" status="PASS">
+    <test started-at="2022-11-24T12:42:24 IST" name="Default test" finished-at="2022-11-24T12:43:21 IST" duration-ms="56546">
+      <class name="com.tests.seleniumUi.RemoteWebdriverTest">
+        <test-method signature="runTestonRemoteWebdriver()[pri:0, instance:com.tests.seleniumUi.RemoteWebdriverTest@53aac487]" started-at="2022-11-24T12:42:24 IST" name="runTestonRemoteWebdriver" finished-at="2022-11-24T12:43:21 IST" duration-ms="56460" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- postRequestByCreatingBodyUsingJsonObject -->
-      </class> <!-- com.tests.restAssured.PostRequest -->
+        </test-method> <!-- runTestonRemoteWebdriver -->
+      </class> <!-- com.tests.seleniumUi.RemoteWebdriverTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
